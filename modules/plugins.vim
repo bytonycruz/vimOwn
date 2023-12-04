@@ -10,5 +10,8 @@
  Plug 'nordtheme/vim'
  Plug 'preservim/nerdtree'
  Plug 'ryanoasis/vim-devicons' 
+ Plug 'alvan/vim-closetag'
+ Plug 'tpope/vim-surround'
+
 
 
